@@ -131,7 +131,7 @@ Essa separação evita que o modelo apenas memorize os dados ao invés de aprend
 Nessa etapa, testamos diferentes algoritmos de Machine Learning, como:  
 
 - 🌲 **RandomForestClassifier** → modelo baseado em várias árvores de decisão;  
-- 📍 **KNeighborsClassifier (KNN)** → classifica o cliente com base em clientes semelhantes.  
+- 🏠 **KNeighborsClassifier (KNN)** → classifica o cliente com base em clientes semelhantes.  
 
 O modelo aprende a relação entre:  
 ➡️ Características do cliente (entrada)  
