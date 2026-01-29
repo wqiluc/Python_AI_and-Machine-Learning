@@ -71,7 +71,7 @@ com foco na análise de dados, treinamento de modelos e geração de previsões 
 
 <p align="center">
 <img src="https://img.shields.io/badge/Jupyter-FA0F00?style=for-the-badge&logo=jupyter&logoColor=black"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=black"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=whitesmoke"/>
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=black"/>
 <img src="https://img.shields.io/badge/LabelEncoder-FF3333?style=for-the-badge&logo=python&logoColor=white"/>
